@@ -1,8 +1,8 @@
-# Бросать кубики
-### Автор: Нурдана
+# Roll Dice
+### Author: Nurdanka
 
-### Как играть:
-1. Откройте файл `index.html` в браузере.
-2. Нажмите кнопку "Roll Dice", чтобы бросить кости.
-3. Каждый бросок генерирует случайные значения для двух кубиков.
-4. Если выпадает дубль (оба кубика одинаковы), выводится специальное сообщение.
+### How to play:
+1. Open the file in your browser.
+2. Click the Roll Dice button to roll the dice.
+3. Each roll generates random values ​​for two dice.
+4. If a double is rolled, a special message is displayed.
